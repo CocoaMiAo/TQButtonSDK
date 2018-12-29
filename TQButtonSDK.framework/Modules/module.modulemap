@@ -1,0 +1,6 @@
+framework module TQButtonSDK {
+  umbrella header "TQButtonSDK.h"
+
+  export *
+  module * { export * }
+}
